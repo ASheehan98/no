@@ -8,3 +8,9 @@ y = x[1].get_text()
 print(y)
 for i in range(20):
     print(x[i].get_text())
+
+
+
+
+
+print("ooooooooooooooooooo how about this?")
